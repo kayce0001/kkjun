@@ -4,10 +4,10 @@
     "sessionSecret": "trajan_app_secret"
   },
   "db": {
-    "host": "localhost",
+    "host": "164.132.0.0",
     "port": 27017,
-    "name": "Trajans-marketplace-dev",
-    "username": "",
-    "password": ""
+    "name": "Evanora Ear Rings",
+    "username": "esm419",
+    "password": "Lolimkid11"
   }
 }
